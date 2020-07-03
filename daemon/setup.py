@@ -23,8 +23,8 @@ setup(
     url='https://github.com/ronnyhaase/simon',
     project_urls={
         "Bug Tracker": "https://github.com/ronnyhaase/simon/issues",
-        "Documentation": "https://github.com/ronnyhaase/simon/daemon",
-        "Source Code": "https://github.com/ronnyhaase/simon/daemon",
+        "Documentation": "https://github.com/ronnyhaase/simon/tree/master/daemon",
+        "Source Code": "https://github.com/ronnyhaase/simon/tree/master/daemon",
     },
     classifiers=[
         "License :: OSI Approved :: GNU General Public License v3 or later (GPLv3+)",
